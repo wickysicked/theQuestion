@@ -1,5 +1,6 @@
-#!/usr/bin/python
+#!/usr/bin/python2
 ##Weiqi Huang
+##This is python2 program
 '''Description
    Given a list of people with their birth and end years (all between 1900 and 2000), find the year with the most number of people alive.
 '''
